@@ -19,6 +19,6 @@ which is then transformed as per the requirements for the input to the model.
 image to model and serves the user with the final prediction.
 
 Where to access the project?
->>Go the the site "saisaran.live" and paste any dog or cat's image url in the text box and click predict.
+>>Go the the site "saisaran.live" or "ec2-100-26-153-220.compute-1.amazonaws.com" and paste any dog or cat's image url in the text box and click predict.
 
 Note:The Repo doesn't contain the pkl file, please download it from the link: https://drive.google.com/file/d/1osIjz0vD6HYV46tPPTXZ6ZIwg1gPSR3U/view?usp=sharing
